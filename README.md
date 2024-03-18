@@ -10,20 +10,6 @@
 - 👨‍💻 Open Source Contributor: Committed to giving back to the community through contributions to open source projects that make an impact.
 - 🎨 Creative Coder: Combining design principles with code to create visually appealing and functional web solutions that stand out.
 
-### Connect with me:
-
-[![website](./img/globe-light.svg)]([https://abbasali123.github.io/abbas-portfol/]#gh-light-mode-only)
-[![website](./img/globe-dark.svg)]([https://abbasali123.github.io/abbas-portfol/]gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AbbasWebDev#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AbbasWebDev#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/abbas-ali123#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abbas-ali123r#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/medium-light.svg)](https://medium.com/@abbasashraff12313#gh-light-mode-only)
-[![website](./img/medium-dark.svg)](https://medium.com/@abbasashraff12313#gh-dark-mode-only)
-
 ### Languages and Tools:
 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
