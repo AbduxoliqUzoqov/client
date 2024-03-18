@@ -1,4 +1,4 @@
-# Hi there, I'm Abbas
+# Hi there, I'm Abduxoliq
 
 [![Website](https://img.shields.io/website?label=https://abbasali123.github.io/abbas-portfol&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://abbasali123.github.io/abbas-portfol/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbbasWebDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbbasWebDev&screen_name=AbbasWebDev)
